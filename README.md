@@ -71,3 +71,7 @@ These metrics were used to select the best-performing model for deployment.
 │── logistic_regression_model.pkl # Trained ML model
 │── README.md # Project documentation
 │── requirements.txt # Dependencies
+
+
+<img width="961" height="627" alt="Screenshot 2026-01-12 at 8 42 05 PM" src="https://github.com/user-attachments/assets/1be20fe3-6f86-4d0f-8772-b553dc632e2e" />
+
